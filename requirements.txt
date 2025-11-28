@@ -1,0 +1,17 @@
+pandas
+numpy
+fastapi
+uvicorn[standard]
+python-multipart
+sqlalchemy
+psycopg2-binary
+alembic
+streamlit
+plotly
+python-dotenv
+pytest
+pytest-cov
+openpyxl
+xlrd
+unidecode
+python-dateutil
